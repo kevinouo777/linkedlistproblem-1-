@@ -1,5 +1,5 @@
 #include <iostream>
-
+//把答案寫在第127行
 const int question1[5] = {1,2,1,2,1};
 const int question2[8] = {1,5,3,5,3,1,3,5};
 
@@ -114,7 +114,7 @@ public:
     }
 
     node* OrganizetheLinkedList(node* head){
-        
+        //答案寫在這裡
     }
     void freeList(node* head){
         while (head != nullptr){
